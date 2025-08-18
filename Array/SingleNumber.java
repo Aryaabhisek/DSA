@@ -13,7 +13,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        PairSumCN solution = new PairSumCN();
         int[] nums = {4, 1, 2, 1, 2}; // Example input
         int result = solution.singleNumber(nums);
         System.out.println("The single number is: " + result);
